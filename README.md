@@ -24,8 +24,8 @@ Proccesor:
 Memory Unit:
 ![Memory Unit](RiscV_Pipleline_RV32/Pictures/Memory_Unit.drawio.png)
 
-Control Unit:
-![Control Unit](RiscV_Pipleline_RV32/Pictures/control_unit.png)
+Control Unit:  
+![Control Unit](RiscV_Pipleline_RV32/Pictures/control_unit.png)  
 
 ## Pipeline Stages
 1.  **Instruction Fetch (IF):** Fetches instruction from IMEM using PC.
