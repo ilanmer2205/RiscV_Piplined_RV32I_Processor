@@ -10,9 +10,9 @@ The core is designed using a **5-stage pipeline** approach and utilizes a **Harv
 * **Architecture:** Harvard (Separate Instruction and Data buses).
 * **Pipeline Depth:** 5 Stages (Fetch, Decode, Execute, Memory, Writeback).
 * **Hazard Handling:**
-  **Data Hazards:** Solved via a dedicated Forwarding Unit (EX-to-EX and MEM-to-EX).
-  **Control Hazards:** Handled via Branch Prediction (Static/Not Taken) and pipeline flushing.
-  **Load-Use Hazards:** Handled via a Hazard Detection Unit (Stalling).
+ * **Data Hazards:** Solved via a dedicated Forwarding Unit (EX-to-EX and MEM-to-EX).
+ * **Control Hazards:** Handled via Branch Prediction (Static/Not Taken) and pipeline flushing.
+ * **Load-Use Hazards:** Handled via a Hazard Detection Unit (Stalling).
 * **Language:** Verilog HDL.
 
 ## 🏗️ Architecture Design
