@@ -50,4 +50,4 @@ assembly code of test 1:
 ![Test 2](RiscV_Pipleline_RV32/Pictures/test2_assembly.png)
 
 wave simulation of test 2:
-![Wave Simulation of Test 2](RiscV_Pipleline_RV32/Pictures/wave_test2.png)
+![Wave Simulation of Test 2](RiscV_Pipleline_RV32/Pictures/wave_test2_dut.png)
