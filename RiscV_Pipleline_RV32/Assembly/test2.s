@@ -32,3 +32,5 @@ c:      slli    x1, x1, 4       // x1 = 0xFF0000
 
 40: end:
         sb      x5, 3(x4)       // [mem]_4 = 0x05FF_05FF
+
+44:     lw      x1, 0(x4)       // x1 = 05ff_05ff
