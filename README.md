@@ -38,6 +38,7 @@ Control Unit:
 Below is a waveform result and the assembly code executed:
 
 **Test1**:
+
 assembly code of test 1:
 ![Test 1](RiscV_Pipleline_RV32/Pictures/test1_assembly.png)
 
@@ -45,7 +46,8 @@ wave simulation of test 1:
 ![Test 1_wave](RiscV_Pipleline_RV32/Pictures/wave_test1_dut.png)
 
 **Test 2**:
-assembly code of test 1::
+*
+assembly code of test 1:
 ![Test 2](RiscV_Pipleline_RV32/Pictures/test2_assembly.png)
 
 wave simulation of test 2:
