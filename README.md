@@ -15,7 +15,7 @@ The core is designed using a **5-stage pipeline** approach and utilizes a **Harv
   **Load-Use Hazards:** Handled via a Hazard Detection Unit (Stalling).
 * **Language:** Verilog HDL.
 
-## Architecture Design
+## 🏗️ Architecture Design
 The processor follows the classic 5-stage pipeline model. Below is the high-level block diagram of the datapath and control units.
 
 Proccesor:
@@ -27,14 +27,14 @@ Memory Unit:
 Control Unit:
 ![Control Unit](RiscV_Pipleline_RV32/Pictures/control_unit.png)
 
-### Pipeline Stages
+## Pipeline Stages
 1.  **Instruction Fetch (IF):** Fetches instruction from IMEM using PC.
 2.  **Instruction Decode (ID):** Decodes instruction and reads register file (RegFile).
 3.  **Execute (EX):** ALU operations, branch outcome calculation, and address generation.
 4.  **Memory Access (MEM):** Reads/Writes to Data Memory.
 5.  **Writeback (WB):** Writes results back to the Register File.
 
-### Waveform Results
+## Waveform Results
 Below is a waveform result and the assembly code executed:
 
 Test1:
