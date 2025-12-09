@@ -46,7 +46,7 @@ wave simulation of test 1:
 ![Test 1_wave](RiscV_Pipleline_RV32/Pictures/wave_test1_dut.png)
 
 **Test 2**:  
-assembly code of test 1:  
+assembly code of test 2:  
 ![Test 2](RiscV_Pipleline_RV32/Pictures/test2_assembly.png)
 
 wave simulation of test 2:
