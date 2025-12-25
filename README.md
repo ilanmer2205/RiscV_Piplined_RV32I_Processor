@@ -52,7 +52,8 @@ assembly code of test 2:
 wave simulation of test 2:
 ![Wave Simulation of Test 2](RiscV_Pipleline_RV32/Pictures/wave_test2_dut.png)
 
-
+## YouTube:
+https://www.youtube.com/watch?v=KxWYwsiTcVk&t=786s
 ## Credits:
 Digital Design and Computer Architecture, RISC-V Edition
 https://www.amazon.com/Digital-Design-Computer-Architecture-RISC-V/dp/0128200642
